@@ -11,5 +11,8 @@ default_dirs:
 
 library:
   skills: []
-  agents: []
+  agents:
+    - name: librarian
+      description: Helps build, review, and maintain reusable skill and prompt definitions in your personal AI library
+      source: https://github.com/briananderson1222/my-ai-library/blob/main/agents/librarian/AGENT.md
   prompts: []
